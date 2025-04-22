@@ -23,8 +23,8 @@ void solver(){
         }
         else{
             // If it's smaller, insert an extra element to simulate a drop in sequence
-            // to make sure filtering removes it
-            paper2.push_back(paper1[i] > 1 ? paper1[i] - 1 : 1); // dummy smaller value
+            
+            paper2.push_back(paper1[i] > 1 ? paper1[i] - 1 : 1); //perfect tilll here
             paper2.push_back(paper1[i]);
         }
     }
