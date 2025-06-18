@@ -1,0 +1,1 @@
+{"name":"Local: odddivisor","url":"d:\\codeforces\\900\\odddivisor.cpp","tests":[{"id":1746368652872,"input":"6\n2\n3\n4\n5\n998244353\n1099511627776\n\n","output":"NO\nYES\nNO\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\900\\odddivisor.cpp","group":"local","local":true}

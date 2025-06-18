@@ -1,0 +1,1 @@
+{"name":"Local: abbalance","url":"d:\\codeforces\\900\\abbalance.cpp","tests":[{"id":1746287762786,"input":"4\nb\naabbbabaa\nabbb\nabbaab\n","output":"b\naabbbabaa\nbbbb\nabbaaa"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\900\\abbalance.cpp","group":"local","local":true}

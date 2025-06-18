@@ -1,0 +1,1 @@
+{"name":"Local: substringrev","url":"d:\\codeforces\\1000\\substringrev.cpp","tests":[{"id":1748008445340,"input":"7\nabacaba\n","output":"YES\n2 3\n"},{"id":1748008513899,"input":"6\naabcfg\n","output":"NO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\1000\\substringrev.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: search","url":"d:\\codeforces\\strivercp\\implementation\\search.cpp","tests":[{"id":1748628886442,"input":"3\n0 0 1\n","output":"HARD\n"},{"id":1748628956850,"input":"2\n0 0","output":"EASY"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\strivercp\\implementation\\search.cpp","group":"local","local":true}

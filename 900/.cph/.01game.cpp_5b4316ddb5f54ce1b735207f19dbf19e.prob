@@ -1,0 +1,1 @@
+{"name":"Local: 01game","url":"d:\\codeforces\\900\\01game.cpp","tests":[{"id":1746728975335,"input":"3\n01\n1111\n0011\n","output":"DA\nNET\nNET\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\900\\01game.cpp","group":"local","local":true}
